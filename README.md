@@ -2,7 +2,7 @@
 
 A sleek, modern, and high-performance React application designed to help job seekers craft professional, ATS-optimized cover letters in minutes. Featuring a side-by-side editor and live preview, it provides a seamless experience for creating high-impact job applications.
 
-
+![Image](https://github.com/user-attachments/assets/b763cb0b-dce1-426d-9660-5bf1bbf64178)
 
 ##  Features
 
